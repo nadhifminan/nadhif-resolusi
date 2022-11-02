@@ -1,0 +1,5 @@
+WPU RESOLUSI
+-Konsisten mengupload konten minimal satu minggu sekali
+-membuat dan merangkum codingan dasar python bagi pemula
+-membuat project penyelesaian sederhana dengan bahasa python
+-merangkum materi perkuliahan algoritma pemrograman yang sudah diajarkan
